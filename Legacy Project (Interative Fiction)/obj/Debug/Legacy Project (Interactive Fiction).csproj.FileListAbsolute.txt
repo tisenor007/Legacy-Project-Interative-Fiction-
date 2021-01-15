@@ -1,0 +1,7 @@
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\bin\Debug\Legacy Project (Interative Fiction).exe.config
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\bin\Debug\Legacy Project (Interative Fiction).exe
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\bin\Debug\Legacy Project (Interative Fiction).pdb
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\obj\Debug\Legacy Project (Interactive Fiction).csprojAssemblyReference.cache
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\obj\Debug\Legacy Project (Interactive Fiction).csproj.CoreCompileInputs.cache
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\obj\Debug\Legacy Project (Interative Fiction).exe
+E:\Visual studio\Legacy Project (Interative Fiction)\Legacy Project (Interative Fiction)\obj\Debug\Legacy Project (Interative Fiction).pdb
