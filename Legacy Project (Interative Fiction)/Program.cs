@@ -24,7 +24,7 @@ namespace Legacy_Project__Interactive_Fiction_
             "If you keep walking you Sprite Cranberry is getting cold. What do you do?;Drink it;Make your way back to the house;5;1",//2
             "Approaching the house from the front makes people see you. What do you do;Hide behind bushes;Keep walking up to house;6;7",//3
             "You get up to the door, what do you do?;Knock on the door;Try to open the door;8;9",//4
-            "You pass out. You wake up in a basketball game and your opponent is about to dunk on you. What do you do?;Try to steal the ball;Try to stop opponent;10;11",//5
+            "You pass out. You wake up in a basketball game and your opponent is about to dunk on you. What do you do;Try to steal the ball;Try to stop opponent;10;11",//5
             "Hiding behind bushes makes you well hidden. You see an opening to get to there door, what do you do?;Run to the door before someone sees you;Keep Hiding;4;12",//6
             "Walking up to house and not hiding causes people who live there to see and call the police. What do you do?;Run away;Stay;13;14",//7
             "A person answers the door and ask 'What are you doing here?'. What do you do?;Ask if they want a Sprite Cranberry;Run Away;15;13",//8
